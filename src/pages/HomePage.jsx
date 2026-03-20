@@ -161,7 +161,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <p style={{ marginTop: 32, fontSize: 12, color: "#1e293b" }}>
-          Developed by <span style={{ color: "#334155", fontWeight: 500 }}>Ishant Awasthi</span> · Powered by Gemini AI
+          Developed by <span style={{ color: "#334155", fontWeight: 500 }}>Ishant Awasthi</span> 
         </p>
 
       </div>
